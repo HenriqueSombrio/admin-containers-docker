@@ -137,3 +137,40 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distributions
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE-specific files
+.idea/  # PyCharm
+.vscode/ # VS Code
+*.iml # IntelliJ IDEA
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Logs and database files
+*.log
+*.sqlite3
+db.sqlite3
+
+# Temporary files
+*.tmp
