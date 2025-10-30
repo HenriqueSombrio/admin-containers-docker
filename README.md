@@ -24,8 +24,6 @@ Um painel web desenvolvido em **React (TypeScript)** e **FastAPI (Python)** para
 
 - 📦 **Listar containers** (ativos, pausados ou parados)  
 - ▶️ **Iniciar, pausar, parar e remover** containers via API  
-- 🧰 **Gerenciar imagens Docker** (listar, remover e criar novas imagens)  
-- 🗂️ **Visualizar volumes e redes Docker**  
 - 🔗 Comunicação **React ↔ FastAPI**  
 - 🖥️ Interface web responsiva e intuitiva  
 
