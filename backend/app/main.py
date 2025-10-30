@@ -4,7 +4,6 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-# Permitir frontend acessar a API
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Em produção, defina a origem do seu frontend
